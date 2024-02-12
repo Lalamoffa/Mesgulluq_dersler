@@ -1,0 +1,66 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    width: 95%;
+    margin: auto;
+}
+
+body{
+    background-color: #F4FCFA;
+}
+
+.box{
+    background-color: #F4FCFA;
+    width: 25%;
+    margin: 1rem;
+}
+.txtHead{
+    margin: 1rem ;
+    text-align: center;
+    
+}
+.description{
+    margin: 1rem;
+    text-align: center;
+}
+
+.box img{
+    display: block;
+    margin: auto;
+}
+
+.d-flex{
+    display: flex;
+    
+}
+
+.card{
+    background-color: white;
+    width: 13%;
+    margin:  1rem;
+    border: 1px solid black;
+}
+
+.color{
+    text-align: center;
+    color: #0C8760;
+    margin: 1rem;
+}
+.d-flex1{
+    flex-wrap: wrap;
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+.card img{
+    padding: 1rem;
+}
+.line{
+    background-color: aqua;
+    height: 4px;
+    width: 100px;
+    margin: auto;
+}
