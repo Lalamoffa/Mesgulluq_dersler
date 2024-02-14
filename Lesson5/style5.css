@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    height: 100vh;
+    background-image: url(https://vsegda-pomnim.com/uploads/posts/2023-07/1689353946_vsegda-pomnim-com-p-noutbuk-nochyu-foto-35.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+
+}
+span{
+    color: #B49C73 ;
+}
+.txt{
+    color:white;
+    width: 30%;
+    position: absolute;
+    top: 14rem;
+    left: 0;
+    right: 35%;
+    bottom: 0;
+    margin: auto;
+    font-size: xx-large;
+    
+}
+button{
+    background-color: #B49C73;
+    border-radius: 15px;
+    width: 250px;
+    height: 35px;
+    margin: 5% 0;
+    color: aliceblue;
+    border: none;
+}
+button:hover{
+    background-color:rgb(202, 121, 45) ;
+}
+a{
+    color: #B49C73;
+}
+.basliq{
+    font-size: xx-large;
+}
+.yazi{
+    margin: 25px 0 0 30px;
+}
+
+
+
+.title2{
+    width: 100%;
+    display: flex;
+    background-color: #37373F;
+}
+.head{
+   color:#B49C73;
+}
+.left{
+    width: 50%;
+    margin: 5rem;
+    color: white;
+    
+}
+
+.right{
+    width: 50%;
+    margin: 5rem;
+    color: white;
+ 
+}
+.sekil{
+    display: flex;
+    margin-top: 10px;
+}
+.sekil i{
+    font-size: xx-large;
+    margin: 0 1rem 0 1rem;
+    background-color: grey;
+    border-radius: 50%;
+    padding: 1rem;
+}
+.head1{
+    width: 25%;
+}
+.head2{
+    width: 100%;
+}
+h3{
+    color: #B49C73;
+}
+h4{
+    margin-top: 10%;
+    color: #B49C73;
+}
