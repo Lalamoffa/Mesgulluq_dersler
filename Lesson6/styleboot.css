@@ -1,0 +1,45 @@
+.navs .topNavbar li {
+    list-style-type: none;
+    margin-right: 1rem;
+    color: #99AAB4;
+    justify-content: space-between;
+}
+.navs .topNavbar ul{
+ margin-top: 1rem;
+}
+.row {
+    background-color: #052F48;
+   
+}
+
+i {
+    color: #4F86F9;
+}
+
+.icon {
+    color: #4F86F9;
+    font-size: xx-large;
+    justify-content: space-around;
+}
+.carousel-item{
+    height: 600px;
+    background-position: bottom;
+    position: relative;
+}
+.carousel-caption{
+    position: absolute;
+    bottom: 10rem;
+   
+}
+.fsc{
+    font-size: 60px;
+    color: #4F86F9;
+
+}
+.fsc1{
+    font-size: 30px;
+    color: #4F86F9;
+}
+button{
+    background-color: white;
+}
